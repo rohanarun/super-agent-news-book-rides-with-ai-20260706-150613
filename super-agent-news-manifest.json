@@ -1,0 +1,86 @@
+{
+  "citations": [
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer \u2014 Security Implications",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/"
+    },
+    {
+      "source": "Consumer Reports",
+      "title": "Different Prices for the Same Ride: How Uber and Lyft Use AI",
+      "url": "https://www.consumerreports.org/cars/car-safety/how-uber-lyft-use-ai-pricing/"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    },
+    {
+      "source": "Google DeepMind",
+      "title": "Computer Use in Gemini Models",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Tech Times",
+      "title": "AI Agent Safety Benchmarks",
+      "url": "https://www.techtimes.com/articles/ai-agent-safety-benchmark.htm"
+    },
+    {
+      "source": "Built In",
+      "title": "Top Applications of AI in Transportation",
+      "url": "https://builtin.com/artificial-intelligence/ai-transportation"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed derived from title=Book rides with AI, kind=use_case, audience=ride-bookers, generated_at=2026-07-06T15:05:33Z \u2192 selected architecture=workflow-command-center. AIDA Check: Attention hero explains job-to-be-done; Interest via proof and market context; Desire via motion + cache advantage; Action via CTA band. Font Selection: Cabinet Grotesk. Hero Math Verification: max-width 1120px, clamp sizing ensures 2\u20133 lines. Bento Density Verification: gapless grid uses grid-auto-flow: dense;. GSAP Motion Selection: image-scale-fade-scroll + hover-physics. Label Sweep & Button Check: primary black pill CTA and high-contrast secondary CTA verified.",
+  "generated_at": "2026-07-06T15:06:21.109535+00:00",
+  "headline": "Book rides with AI \u2014 compare, coordinate, and confirm with a personal agent",
+  "site_brief": {
+    "audience": "people who want an AI assistant to compare, book, and coordinate rides",
+    "canonical_url": "https://app.getsupers.com/use-cases/book-rides-with-ai/",
+    "cluster_links": [
+      {
+        "slug": "order-food-with-ai",
+        "title": "Order food with AI",
+        "url": "https://app.getsupers.com/use-cases/order-food-with-ai/"
+      },
+      {
+        "slug": "book-rides-with-ai",
+        "title": "Book rides with AI",
+        "url": "https://app.getsupers.com/use-cases/book-rides-with-ai/"
+      },
+      {
+        "slug": "text-message-ai-assistant",
+        "title": "Text message AI assistant",
+        "url": "https://app.getsupers.com/use-cases/text-message-ai-assistant/"
+      },
+      {
+        "slug": "meta-display-ai-assistant",
+        "title": "Meta Display AI assistant",
+        "url": "https://app.getsupers.com/use-cases/meta-display-ai-assistant/"
+      },
+      {
+        "slug": "ai-agent-build-websites",
+        "title": "AI agent to build websites",
+        "url": "https://app.getsupers.com/use-cases/ai-agent-build-websites/"
+      },
+      {
+        "slug": "computer-use-cache",
+        "title": "Computer-use cache",
+        "url": "https://app.getsupers.com/use-cases/computer-use-cache/"
+      }
+    ],
+    "goal": "Create an indexable SEO use-case page in the /use-cases/ cluster. Target the practical query 'Book rides with AI', show the exact job-to-be-done, and explain how Super can perform the workflow with real computer use and a reusable computer-use cache. Include sibling use-case links so the cluster feels intentional, crawlable, and useful. Add a long-form operator playbook with how-to steps, setup checklist, realistic limits, confirmation moments, and examples that a reader can act on immediately.",
+    "kind": "use_case",
+    "queries": [
+      "AI assistant book rides",
+      "AI agent ride booking",
+      "personal assistant Uber Lyft AI",
+      "computer use AI agent transportation"
+    ],
+    "route_prefix": "use-cases",
+    "slug": "book-rides-with-ai",
+    "title": "Book rides with AI",
+    "use_case_intent": "show how Super can help request rides, compare ETAs, handle pickup details, and reuse repeated route preferences"
+  },
+  "summary": "A practical field guide showing how Super helps people book rides with AI by operating real apps, comparing ETAs and prices, coordinating pickup details, and reusing preferences through a computer-use cache. Built for repeated transportation workflows that need reliability, confirmation, and context."
+}
